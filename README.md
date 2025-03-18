@@ -18,9 +18,13 @@
 
      -Y todo lo que quieras, asi puedes ganar :dart:, sorprender :star_struck:, decidir :face_with_spiral_eyes:, evitar peleas :wrestling:, etc.
 
-<h2>Reglas:</h2>
+<h2>Indicaciones:</h2>
 
+ **El uso es muy sencillo e intuitivo, de todas formas te dejo el paso a paso:**
+1. *Debes entrar en la pagina web [Enlace a la pagina web de amigo secreto](https://dugoprogram.github.io/amigo-secreto/)*
+2. *Una vez dentro te debererias ver la pagina principal que luce de esta manera* ![Imagen de la pagina princial de amigo secreto](ruta/del/archivo/imagen.png)
 
+3. 
 :sparkles: 
 :bangbang:
 
